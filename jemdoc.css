@@ -365,3 +365,16 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+
+.tab {
+    position: absolute;
+    /* display: inline-block; */
+    /* -moz-tab-size: 200; */
+    /* tab-size:100; */
+    /* width: 300px; */
+    left: 300px;
+    /* vertical-align: top; */
+    /* margin-left: 100px; */
+    /* padding-left: 100px; */
+}
