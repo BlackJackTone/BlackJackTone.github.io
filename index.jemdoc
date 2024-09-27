@@ -9,10 +9,12 @@ I'm a Phd student at [https://www.cs.cornell.edu/ Department of Computer Science
 == Publications
 
 . Enabling Adaptive Sampling for Intra-Window Join: Simultaneously Optimizing Quantity and Quality
+
   */Xilin Tang/*, Feng Zhang, Shuhao Zhang, Yani Liu, Bingsheng He, Xiaoyong Du
   \[*SIGMOD'25*\] \[To Appear\]
 
 . Taming the Big Data Monster: Managing Petabytes of Data with Multi-Model Databases
+
   Yang Chen, Feng Zhang, Yinhao Hong, Yunpeng Chai, Wei Lu, Hong Chen, Xiaoyong Du, Peipei Wang, Le Mi, Jintao Li, */Xilin Tang/*, Yanliang Zhou, Wei Zhou, Peng Zhang, Fengyi Chen, Pengfei Li, Yu Li
   \[*SBACPAD'22*\]
 
