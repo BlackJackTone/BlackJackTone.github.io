@@ -1,6 +1,6 @@
 # jemdoc: nomenu, addcss{nomenu.css}
-= 唐熙霖 Xilin Tang
-# [xt235 @ cornell.edu] ([ ])
+= 唐熙霖 | Xilin Tang
+xt235 +at+ cornell +dot+ edu
 
 == About
 
@@ -9,10 +9,10 @@ His research focuses on quantitatively and formally understanding system behavio
 
 == Publications
 
-. Enabling Adaptive Sampling for Intra-Window Join: Simultaneously Optimizing Quantity and Quality\n
+. [https://doi.org/10.1145/3677134 Enabling Adaptive Sampling for Intra-Window Join: Simultaneously Optimizing Quantity and Quality]\n
   */Xilin Tang/*, Feng Zhang, Shuhao Zhang, Yani Liu, Bingsheng He, Xiaoyong Du\n
-  \[*SIGMOD'25*\] \[To Appear\]
-. Taming the Big Data Monster: Managing Petabytes of Data with Multi-Model Databases\n
+  \[*SIGMOD'25*\]
+. [https://doi.org/10.1109/SBAC-PAD55451.2022.00039 Taming the Big Data Monster: Managing Petabytes of Data with Multi-Model Databases]\n
   Yang Chen, Feng Zhang, Yinhao Hong, Yunpeng Chai, Wei Lu, Hong Chen, Xiaoyong Du, Peipei Wang, Le Mi, Jintao Li, */Xilin Tang/*, Yanliang Zhou, Wei Zhou, Peng Zhang, Fengyi Chen, Pengfei Li, Yu Li\n
   \[*SBACPAD'22*\]
 
